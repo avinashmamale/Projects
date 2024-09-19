@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Magicxpi_Startup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Projects>
+    <Project Name="Test" ProjectsDirPath="C:\Users\avinashm\Documents\Magic\Projects\Test\">
+      <Servers>
+        <Server host="IN-Avinashmlpt1" alternateHosts="">
+          <ProjectsDirPath>
+          </ProjectsDirPath>
+          <NumberOfWorkers>1</NumberOfWorkers>
+          <NumberOfInstances>1</NumberOfInstances>
+          <Triggers load="true">
+          </Triggers>
+          <Scheduler load="false" />
+          <AutoStart load="false" />
+        </Server>
+      </Servers>
+    </Project>
+  </Projects>
+</Magicxpi_Startup>
